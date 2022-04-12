@@ -1,0 +1,61 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "details": [
+    {
+      "name": "Hewali Gogoi",
+      "age": "22",
+      "gender": "Female",
+      "contact": "7002200437",
+      "image": "",
+      "department": "",
+      "salary": "1000000",
+      "id": 1
+    },
+    {
+      "name": "Mary",
+      "age": "22",
+      "gender": "Female",
+      "contact": "1234567890",
+      "image": "",
+      "department": "",
+      "salary": "55555555",
+      "id": 2
+    },
+    {
+      "name": "Test",
+      "age": "22",
+      "gender": "Male",
+      "contact": "1234567890",
+      "image": "",
+      "department": "",
+      "salary": "40000000",
+      "id": 3
+    },
+    {
+      "name": "Biswajit",
+      "age": "40",
+      "gender": "Male",
+      "contact": "405",
+      "image": "",
+      "department": "",
+      "salary": "5",
+      "id": 4
+    }
+  ]
+}
